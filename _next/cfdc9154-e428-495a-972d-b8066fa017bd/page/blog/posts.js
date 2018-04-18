@@ -1,0 +1,1 @@
+module.exports=__NEXT_REGISTER_PAGE("/blog/posts",function(){var t=webpackJsonp([5],{128:function(t,e,o){"use strict";Object.defineProperty(e,"__esModule",{value:true});e["default"]=[{slug:"all-about-basic-attention-token",title:"All about Basic Attention Token",date:"June 19, 2017"}]},429:function(t,e,o){t.exports=o(128)}},[429]);return{page:t.default}});
