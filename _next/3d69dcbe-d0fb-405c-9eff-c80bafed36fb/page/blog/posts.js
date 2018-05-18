@@ -1,1 +1,0 @@
-module.exports=__NEXT_REGISTER_PAGE("/blog/posts",function(){var e=webpackJsonp([8],{233:function(e,t,o){"use strict";Object.defineProperty(t,"__esModule",{value:true});t["default"]=[]},448:function(e,t,o){e.exports=o(233)}},[448]);return{page:e.default}});
