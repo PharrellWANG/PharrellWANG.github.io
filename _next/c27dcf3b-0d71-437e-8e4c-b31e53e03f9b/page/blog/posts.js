@@ -1,1 +1,0 @@
-module.exports=__NEXT_REGISTER_PAGE("/blog/posts",function(){var e=webpackJsonp([16],{218:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:true});t["default"]=[{slug:"understanding-bidirectional-optical-flow",title:"Understanding Bidirectional Optical Flow",date:"June 30, 2019"}]},467:function(e,t,n){e.exports=n(218)}},[467]);return{page:e.default}});
